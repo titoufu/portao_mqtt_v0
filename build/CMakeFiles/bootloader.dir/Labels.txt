@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/CMakeFiles/bootloader
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/CMakeFiles/bootloader.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/CMakeFiles/bootloader-complete.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+G:/Users/jribe/OneDrive/Documentos/ExpressifIDF/portao_mqtt_v0/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
